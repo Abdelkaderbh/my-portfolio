@@ -14,18 +14,18 @@ import { Pagination } from "swiper";
 const data = [
   {
     id:1,
-    name:'Adam Smith',
-    review:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam faucibus ipsum ante, vitae iaculis nisi suscipit eget. Nunc felis urna, volutpat vel porttitor quis, aliquet in mauris. Duis sed ex a arcu euismod bibendum. Nam tempus enim ut dui accumsa'
+    name:'Mistelberger',
+    review:'Easy and quick communication, good job'
   },
   {
     id:2,
     name:'Sergey',
-    review:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam faucibus ipsum ante, vitae iaculis nisi suscipit eget. Nunc felis urna, volutpat vel porttitor quis, aliquet in mauris. Duis sed ex a arcu euismod bibendum. Nam tempus enim ut dui accumsa'
+    review:'it was great working with you Abdelkader'
   },
   {
     id:3,
     name:'Sami',
-    review:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam faucibus ipsum ante, vitae iaculis nisi suscipit eget. Nunc felis urna, volutpat vel porttitor quis, aliquet in mauris. Duis sed ex a arcu euismod bibendum. Nam tempus enim ut dui accumsa'
+    review:'Professional and quick job highly recomnd this freelancer'
   },
 ]
 

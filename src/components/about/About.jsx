@@ -59,7 +59,10 @@ const About = () => {
 
 
               <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non curabitur gravida arcu ac tortor dignissim convallis aenean et
+                  Extremely motivated to constantly develop my skills and
+                  evolve professionally in the field of web and mobile
+                  development. I am confident in my ability to come up with
+                  interesting ideas and very open to team work.
               </p>
               <a href="#contact" className='btn btn-primary '> Send Me A Message </a>
           </div>
