@@ -20,14 +20,7 @@ const data = [
     github:'https://github.com/Abdelkaderbh/Landing-Page',
     demo:'https://giro-landingpage.netlify.app'
   },
-  {
-    id:3,
-    image:LandingProject,
-    title:'Giro - Multipurpose Landing Page',
-    github:'https://github.com/Abdelkaderbh/Landing-Page',
-    demo:'https://giro-landingpage.netlify.app'
-  },
-  
+ 
 ]
 
 const Portfolio = () => {
