@@ -24,9 +24,20 @@ const data = [
   },
   {
     id:3,
-    name:'Sami',
-    review:'Professional and quick job highly recomnd this freelancer'
+    name:'Diego',
+    review:'He is very fast. Good communication.'
   },
+  {
+    id:4,
+    name:'Aiman Muneeb',
+    review:"best on Upwork. he designed really good website love his work ."
+  },
+  {
+    id:5,
+    name:'Henri',
+    review:"It was a pleasure working with Abdelkader. He finished our Wordpress project in record time and was happy to implement any changes we requested. Communication was also great and I simply can't fault the guy. Very pleased with the end result and would happily recommend him!"
+  }
+ 
 ]
 
 
