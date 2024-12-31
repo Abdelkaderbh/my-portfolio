@@ -1,7 +1,7 @@
 import React from 'react'
 import CTA from './CTA'
 import './header.css'
-import myImage from '../../assets/myImg.jpg'
+import myImage from '../../assets/myImg.png'
 import Socials from './Socials'
 
 

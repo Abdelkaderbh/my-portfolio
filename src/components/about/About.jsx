@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import myImage from '../../assets/myImg.jpg'
+import myImage from '../../assets/myImg.png'
 import {FaAward,FaUsers,FaReact} from 'react-icons/fa'
 
 const About = () => {
@@ -27,7 +27,7 @@ const About = () => {
                 </h5>
 
                 <span>
-                  1+ Years 
+                  3 + Years 
                 </span>
                 
 
@@ -40,7 +40,7 @@ const About = () => {
                   Clients
                 </h5>
                 <span >
-                  3+ Worldwide 
+                  5 + Worldwide 
                 </span>
                 </article>
 
@@ -52,7 +52,7 @@ const About = () => {
                 </h5>
 
                 <span >
-                  12+  Projects
+                  20 +  Projects
                 </span>
                 </article>
               </div>

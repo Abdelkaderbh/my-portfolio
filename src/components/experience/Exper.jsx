@@ -1,7 +1,8 @@
 import React from 'react'
 import './exper.css'
-import  {FaVuejs,FaHtml5,FaNodeJs} from 'react-icons/fa'
-import {DiJavascript1,DiReact,DiJqueryLogo,DiCss3Full,DiBootstrap,DiNodejs,DiPython} from 'react-icons/di'
+import  {FaVuejs,FaHtml5,FaNodeJs,FaPhp} from 'react-icons/fa'
+import { SiExpress } from "react-icons/si";
+import {DiJavascript1,DiReact,DiCss3Full,DiBootstrap,DiNodejs,DiPython,DiPhp} from 'react-icons/di'
 import {SiDjango} from 'react-icons/si'
 
 const Exper = () => {
@@ -21,10 +22,10 @@ const Exper = () => {
                   </div>
             </article>
             <article className='exerpience_details'>
-            <FaVuejs className='exerpienceIcon'/>
+            <FaPhp className='exerpienceIcon'/>
                 <div>
-                      <h4> VueJs </h4>
-                      <small className='text-light'> Basics </small>
+                      <h4> PHP </h4>
+                      <small className='text-light'> Intermediate </small>
                 </div>
             </article>
             <article className='exerpience_details'>
@@ -79,7 +80,14 @@ const Exper = () => {
             <DiPython className='exerpienceIcon'/>
             <div>
             <h4> Python </h4>
-            <small className='text-light'> Basics </small>
+            <small className='text-light'> Intermediate </small>
+            </div>
+            </article>
+            <article className='exerpience_details'>
+            <SiExpress className='exerpienceIcon'/>
+            <div>
+            <h4> Express </h4>
+            <small className='text-light'> Intermediate </small>
             </div>
             </article>
             </div>
