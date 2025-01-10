@@ -19,7 +19,7 @@ const data = [
     id:2,
     image:PharmacyProject,
     title:'Online Pharmacy Store',
-    github:'https://github.com/majdifkih/Online-Pharmacy-Project',
+    github:'https://github.com/Abdelkaderbh/Online-Pharmacy-Project',
     demo:''
   },
 
