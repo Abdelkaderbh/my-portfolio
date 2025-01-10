@@ -27,6 +27,7 @@ const Footer = () => {
           <a href="https://www.facebook.com/Gadour.BH/" target="_blank"> <BsFacebook className='socialIcon'/> </a>
           <a href="https://www.instagram.com/gadourbenhssen/?hl=fr" target="_blank"> <BsInstagram className='socialIcon'/> </a>
           <a href="https://www.linkedin.com/in/abdelkader-ben-hassen-bab946202/" target="_blank"> <BsLinkedin className='socialIcon'/> </a>
+          <a href='https://github.com/Abdelkaderbh' target="_blank"> <BsGithub className='socialIcon'/> </a>
           <a href="https://www.upwork.com/freelancers/~01bbefdf0493faf916" target="_blank"> <SiUpwork className='socialIcon'/> </a> 
       </div>
 
